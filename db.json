@@ -1,11 +1,25 @@
 {
   "logs": [
     {
-      "message": "Hard drive failed in workstation 002",
+      "message": "Workstation 001 needs work",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2019-11-12T00:49:44.971Z",
+      "id": 1
+    },
+    {
+      "message": "Hard drive fixed at 003",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2019-11-12T00:49:56.525Z",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "message": "Internet crashed work group 01",
       "attention": true,
       "tech": "Sara Wilson",
-      "date": "2019-11-11T23:57:29.375Z",
-      "id": 2
+      "date": "2019-11-12T00:50:13.861Z"
     }
   ],
   "techs": [
