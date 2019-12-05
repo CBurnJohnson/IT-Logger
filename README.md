@@ -1,4 +1,4 @@
-# IT Logger
+# IT Work Orders
 
 #### React application that logs/tracks IT work orders.
 
